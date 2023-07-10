@@ -1,0 +1,25 @@
+a{
+  text-decoration:none;
+}
+
+body{
+  background-color:powderblue;
+}
+
+h1{
+  color:#29cc00;
+}
+
+h3{
+  color:#29cc00;
+}
+
+table{
+  border-spacing:10px;
+}
+
+#picture{
+  width:100px;
+  height:100px;
+  border-radius:100%;
+}
