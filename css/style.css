@@ -7,15 +7,16 @@ body{
 }
 
 h1{
+  font-size: 60px;
   color:#29cc00;
 }
 
 h3{
-  color:#29cc00;
+  color:#29c402;
 }
 
 hr{
-  color:write;
+  border:1px solid white;
 }
 
 table{
@@ -23,7 +24,7 @@ table{
 }
 
 #picture{
-  width:100px;
-  height:100px;
+  width:200px;
+  height:200px;
   border-radius:100%;
 }
